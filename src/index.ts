@@ -1,3 +1,3 @@
-import { someFunction } from "./typical";
+import { someFunction } from "./typical"
 
-console.log(someFunction(1));
+console.log(someFunction(1))
